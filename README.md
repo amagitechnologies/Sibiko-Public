@@ -12,3 +12,7 @@ Documentation and example request/response can be found [**here**](https://docs.
 - [CumuloSys](https://www.cumulosys.com)
 - [Sibiko](https://pque.sibiko.com)
 - [Amagi Academy](http://amagiacademy.com)
+
+---
+
+### And yes, [we're hiring](http://amagi.io/careers)!
